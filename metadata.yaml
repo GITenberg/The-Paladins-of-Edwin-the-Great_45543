@@ -1,0 +1,38 @@
+_repo: The-Paladins-of-Edwin-the-Great_45543
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Peacock, Ralph
+    birthdate: 1868
+    deathdate: 1946
+    gutenberg_agent_id: '8455'
+    url: http://www.gutenberg.org/2009/agents/8455
+covers:
+- cover_type: archival
+  image_path: 45543-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Markham, Clements R. (Clements Robert), Sir
+    aliases:
+    - Markham, Sir Clements R. (Clements Robert)
+    - Markham, Clements Robert, Sir
+    birthdate: 1830
+    deathdate: 1916
+    gutenberg_agent_id: '2962'
+    url: http://www.gutenberg.org/2009/agents/2962
+    wikipedia: http://en.wikipedia.org/wiki/Clements_Markham
+description: ''
+gutenberg_issued: '2014-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45543'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Anglo-Saxon period, 449-1066 -- Fiction'
+- !lcsh 'Edwin, King of Northumbria, 585?-633 -- Fiction'
+- !lcc 'PR'
+title: The Paladins of Edwin the Great
+url: http://www.gutenberg.org/ebooks/45543
