@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2962
     wikipedia: http://en.wikipedia.org/wiki/Clements_Markham
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45543#The-Paladins-of-Edwin-the-Great
 gutenberg_issued: '2014-04-30'
 gutenberg_type: Text
 identifiers:
